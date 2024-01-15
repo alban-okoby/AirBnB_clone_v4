@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alban Okoby - [Github](https://github.com/alban-okoby) / [Twiiter](https://twitter.com/AlbanOkoby)
+Alban Okoby - [Github](https://github.com/alban-okoby) / [Twitter](https://twitter.com/AlbanOkoby) <br>
 Masseck Ngom
 
 ## License
